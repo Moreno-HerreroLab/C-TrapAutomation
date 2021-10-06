@@ -1,8 +1,9 @@
 # coding=utf-8
 """
 PROGRAMMABLE FORCE SEQUENCE
+Automation script for Bluelake 1.7.1 (C-Trap, Lumicks)
 Sara de Bragança, sbraganca@cnb.csic.es
-2021-09-03
+2021-09-21
 
 This automation script allows the user to program a sequence of forces to be applied to a tethered molecule.
 Using this script to apply forces increases the reproduciblity of the experiments. Firstly, because the user,

@@ -29,6 +29,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------------
 
 PROGRAMMABLE FORCE SEQUENCE
+Automation script for Bluelake 1.6 (C-Trap, Lumicks)
 Sara de Bragança, sbraganca@cnb.csic.es
 2021-09-03
 
